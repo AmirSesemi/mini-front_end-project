@@ -35,7 +35,7 @@ MIT — Free to use, modify, and share.
 
 <br>
 
-# 🇮🇷 نسخه فارسی
+ 
 
 ---
 
