@@ -4,16 +4,6 @@ A collection of small but powerful front-end projects to practice and master web
 
 ---
 
-## 📂 Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🎯 Number Guesser | Guess a number between 1-100 with hints | HTML, CSS, JS |
-| 📋 To-Do List | Manage daily tasks with local storage | HTML, CSS, JS |
-| 🔐 Password Manager UI | Clean interface for password management | HTML, CSS, JS |
-
----
-
 ## 🚀 Features
 
 - Responsive design (mobile-first)
@@ -52,16 +42,6 @@ MIT — Free to use, modify, and share.
 # 🎨 پروژه‌های کوچک HTML-CSS-JS
 
 مجموعه‌ای از پروژه‌های کوچک اما کاربردی فرانت‌اند برای تمرین و تسلط بر توسعه وب.
-
----
-
-## 📂 پروژه‌ها
-
-| پروژه | توضیحات | تکنولوژی |
-|---------|-------------|------|
-| 🎯 حدس عدد | عددی بین ۱ تا ۱۰۰ را با راهنما حدس بزنید | HTML, CSS, JS |
-| 📋 مدیریت کارها | مدیریت کارهای روزانه با ذخیره‌سازی در مرورگر | HTML, CSS, JS |
-| 🔐 مدیریت رمز (UI) | رابط کاربری تمیز برای مدیریت رمزهای عبور | HTML, CSS, JS |
 
 ---
 
