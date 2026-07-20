@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>بازی حدس عدد</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@v33.003/Vazirmatn-font-face.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+    <div class="game-container">
+        <h1>🎯 حدس عدد</h1>
+        <p class="subtitle">یه عدد بین 1 تا 100 حدس بزن</p>
+
+        <div class="number-display" id="guessDisplay">?</div>
+
+        <div class="input-group">
+            <input type="number" id="guessInput" placeholder="عدد رو وارد کن..." min="1" max="100">
+            <button id="guessBtn">حدس بزن</button>
+        </div>
+
+        <div class="message" id="message">🔵 یه عدد حدس بزن...</div>
+
+        <div class="stats">
+            <span>🔢 تعداد حدس‌ها: <strong id="attempts">0</strong></span>
+            <span>🎯 عدد درست: <strong id="correctNumber">?</strong></span>
+        </div>
+
+        <button class="btn-restart" id="restartBtn">🔄 بازی جدید</button>
+    </div>
+
+    <script src="./js/main.js">
+    </script>
+
+</body>
+
+</html>
